@@ -1,3 +1,7 @@
+# DirtyCLR Update
+- Created a **loader.PS1** to support this awesome tool, again thanks to all involved.
+
+
 # DirtyCLR
 > This research has been possibile with the support of [Shielder](https://www.shielder.com/) who has sponsored it with the goal to discover new ways of blend-in within legitimate applications and raise awareness about uncovered sophisticated attack venues, contributing to the security of the digital ecosystem.
 Shielder invests from 25% to 100% of employees time into Security Research and R&D, whose output can be seen in its [advisories](https://www.shielder.com/advisories/) and [blog](https://www.shielder.com/blog/).
